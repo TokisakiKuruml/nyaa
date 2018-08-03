@@ -43,5 +43,5 @@ DOWNLOADER_MIDDLEWARES = {
 }
 ```
 # 最后
-scrapy crawl nyaa<br>
+scrapy crawl ny<br>
 即可启动
